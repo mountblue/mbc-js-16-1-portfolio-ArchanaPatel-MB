@@ -1,0 +1,121 @@
+#outer_most{
+    height: 2300px;
+    width: 90%;
+    background-color: rgb(182, 180, 180);
+    margin: auto;
+    border-radius: 10px;
+    display: flex;
+}
+#left_outer{
+    height: 96%;
+    width: 30%;
+    background-color: rgb(182, 180, 180);
+    margin:2% 0% 0% 2%;
+}
+#right_outer{
+    height: 86%;
+    width: 64%;
+    background-color: rgb(182, 180, 180);
+    margin:2% 0% 0% 2%;
+}
+#my_boidata{
+    height: 30%;
+    width: 99%;
+    background-color: white;
+    border-radius: 8px;
+}
+#my_experience{
+    height:35% ;
+    width: 99%;
+    background-color: white;
+    margin-top: 2%;
+    border-radius: 8px;
+}
+#my_hobbies{
+    height:35% ;
+    width: 99%;
+    background-color: white;
+    margin-top: 2%;
+    border-radius: 8px;
+}
+.Experience{
+    height: 25.33%;
+    width: 96%;
+    display: flex;
+    margin-top: 10%;
+}
+.progress_report{
+    height: 15%;
+    width: 100%;
+    display: flex;
+    background-color:white;
+    border-radius: 8px;
+    margin-top: 3%;
+}
+#front-end_progress{
+    height: 96%;
+    width: 50%;
+    background-color: white;
+    border-radius: 8px;
+}
+#design_progress{
+    height: 60%;
+    width: 46%;
+    background-color: white;
+    border-radius: 8px;
+    margin-left: 2%;
+}
+.project_bolg_heading{
+    height: 1%;
+    width: 95%;
+    background-color: white;
+    border-radius: 8px;
+    padding: 2% 0% 2% 5%;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    font-size: larger;
+}
+.project{
+    height: 87%;
+    width: 65%;
+    margin-top: 2%;
+}
+#button_demo{
+    width: 20%;
+    border-radius: 15px;
+    padding: 3%;
+    background-color:  #2F80ED;
+
+    color: white;
+    font-size: larger;
+    border: none;
+}
+#button_code{
+    width: 20%;
+    border-radius: 15px;
+    padding: 3%;
+    margin-left: 2%;
+    border: 2px solid  #2F80ED;
+
+    font-size: larger;
+    columns: #2F80ED;
+
+}
+#blog{
+    height:25% ;
+    width: 100%;
+    display: flex;
+    background-color:white;
+    border-radius: 8px;
+    margin-top: 3%;
+    flex-direction: row-reverse;
+
+}
+#last{
+    height: 90%;
+    width: 55%;
+    margin-top: 5%;
+}
+
+
+
